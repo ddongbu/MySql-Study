@@ -1,0 +1,1 @@
+select stu_dept || ',' || stu_name || '입니다' as 학과성명 from student;

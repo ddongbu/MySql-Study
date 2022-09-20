@@ -1,0 +1,1 @@
+select distinct stu_dept from student;
