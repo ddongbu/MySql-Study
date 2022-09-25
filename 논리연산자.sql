@@ -1,0 +1,1 @@
+select stu_name, stu_dept, stu_grade, stu_class  from student  where stu_dept = '컴퓨터정보' and stu_grade = 2;

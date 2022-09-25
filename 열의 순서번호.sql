@@ -1,0 +1,1 @@
+select stu_no, stu_name, stu_dept, stu_weight-5 as target  from student  order by 4;

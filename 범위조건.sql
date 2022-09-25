@@ -1,0 +1,1 @@
+select *  from student  where stu_weight between 60 and 70;

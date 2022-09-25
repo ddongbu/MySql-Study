@@ -1,0 +1,1 @@
+select *  from student  where stu_no between '20140001' and '20149999';
